@@ -1,2 +1,2 @@
 # Data Science Project Jupyter CARS USA
-Using Jupyter for Data Science in 
+Using Jupyter for Data Science
